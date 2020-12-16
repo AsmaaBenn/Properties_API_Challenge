@@ -17,7 +17,7 @@ I'll be using the Motor package to interact with MongoDB asynchronously.
   <h4>MongoDB Setup</h4>
   <lu>
   <li>installe MongoDB on your machine, refer to the installation guide: https://docs.mongodb.com/manual/installation/.</li>
-  <li>run the mongod daemon process.</li>
+  <li>run the mongod daemon process [Lets go to Quora](https://www.quora.com).</li>
   <pre><code>mongod --dbpath ~/data/db/</code></pre>
   </lu>
 </p>
