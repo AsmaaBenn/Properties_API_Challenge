@@ -17,6 +17,7 @@ I'll be using the Motor package to interact with MongoDB asynchronously.
   <h4>MongoDB Setup</h4>
   <lu>
   <li>installe MongoDB on your machine, refer to the installation guide: https://docs.mongodb.com/manual/installation/.</li>
+  [link](https://testdriven.io/blog/fastapi-mongo/)
   <li>run the mongod daemon process.</li>
   <pre><code>mongod --dbpath ~/data/db/</code></pre>
   </lu>
