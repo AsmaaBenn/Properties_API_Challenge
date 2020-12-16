@@ -2,6 +2,7 @@
 <p>
 In this Code, i develop an asynchronously API with FastAPI and MongoDB.<br/>
 I'll be using the Motor package to interact with MongoDB asynchronously.
+  My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
 </p>
 <p>
   <h3>Initial Setup</h3>
