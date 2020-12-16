@@ -13,7 +13,7 @@ I'll be using the Motor package to interact with MongoDB asynchronously.
 </p>
 <p>
   <h3>MongoDB</h3>
-  We need to wire up MongoDB and configure our application to communicate with it.<br/><br/>
+  We need to wire up MongoDB and configure our application to communicate with it.<br/>
   <h4>MongoDB Setup</h4>
   <lu>
   <li>installe MongoDB on your machine.</li>
@@ -21,3 +21,6 @@ I'll be using the Motor package to interact with MongoDB asynchronously.
   <pre><code>mongod --dbpath ~/data/db/</code></pre>
   </lu>
 </p>
+<p>
+  routes folder
+<p>
