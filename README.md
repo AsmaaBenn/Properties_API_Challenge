@@ -21,6 +21,3 @@ I'll be using the Motor package to interact with MongoDB asynchronously.
   <pre><code>mongod --dbpath ~/data/db/</code></pre>
   </lu>
 </p>
-<p>
-  routes folder
-<p>
