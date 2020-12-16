@@ -1,7 +1,7 @@
 # Properties_API_Challenge
 <p> 
-I have a friend has become a millionaire over night <br/>
-He want me to implement the backend of a <b> management property platform </b>, so he can have control over the properties.
+A few weeks ago, a friend of mine become a millionaire over night <br/>
+He start bying many properties and he want me to implement the backend of a <b> management property platform </b>, so he can have control over the properties.
 </p>
 <p>
 I created a basic API that can :<br/>
@@ -17,3 +17,6 @@ I created a basic API that can :<br/>
   <li> Update property data </li>
   <li> Delete a property </li>
 </ul>
+<p>
+  The code in master branche
+</p>
