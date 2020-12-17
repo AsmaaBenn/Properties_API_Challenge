@@ -22,5 +22,5 @@ I'll be using the Motor package to interact with MongoDB asynchronously.
 <p>
   <h3> Run App </h3>
   In challenge/main.py file, there is an entry point for running the application
-  <pre><code>(venv)$ python app/main.py</code></pre>
+  <pre><code>(venv)$ python challenge/main.py</code></pre>
 </p>
