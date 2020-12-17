@@ -18,5 +18,5 @@ I created a basic API that can :<br/>
   <li> Delete a property </li>
 </ul>
 <p>
-  <h2>The code in master branch</h2>
+  <h3>The code is in master branch</h3>
 </p>
