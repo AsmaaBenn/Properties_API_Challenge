@@ -1,4 +1,4 @@
 fastapi==0.62.0
 motor==2.3.0
-pydantic==1.7.3
+pydantic[email]
 uvicorn==0.13.1
