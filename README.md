@@ -8,8 +8,6 @@ I'll be using the Motor package to interact with MongoDB asynchronously.
   Start by creating and activate a virtual environment. <br/><br/>
   Next, Install the dependencies in requirements.txt file <br/>
   <pre><code> pip install -r requirements.txt</code></pre>
-  
-  In the challenge/main.py file, there is an entry point for running the application
 </p>
 <p>
   <h3>MongoDB</h3>
@@ -20,4 +18,9 @@ I'll be using the Motor package to interact with MongoDB asynchronously.
   <li>run the mongod daemon process.</li>
   <pre><code>mongod --dbpath ~/data/db/</code></pre>
   </lu>
+</p>
+<p>
+  <h3> Run App </h3>
+  In challenge/main.py file, there is an entry point for running the application
+  <pre><code>(venv)$ python challenge/main.py</code></pre>
 </p>
