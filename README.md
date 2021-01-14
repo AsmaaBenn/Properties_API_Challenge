@@ -1,8 +1,4 @@
 # Properties_API_Challenge
-<p> 
-A few weeks ago, a friend of mine become a millionaire over night <br/>
-He start bying many properties and he want me to implement the backend of a <b> management property platform </b>, so he can have control over the properties.
-</p>
 <p>
 I created a basic API that can :<br/>
 <ul>
